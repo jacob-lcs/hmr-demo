@@ -1,0 +1,24 @@
+{
+  "name": "hmr-demo",
+  "version": "1.0.0",
+  "description": "由 Demo 演示 webpack 以及 Vite 的 HMR 原理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacob-lcs/hmr-demo.git"
+  },
+  "keywords": [
+    "HMR",
+    "webpack",
+    "vite"
+  ],
+  "author": "Jacob <jacob.liucs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacob-lcs/hmr-demo/issues"
+  },
+  "homepage": "https://github.com/jacob-lcs/hmr-demo#readme"
+}
